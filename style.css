@@ -77,13 +77,25 @@ body{
 }
 
 .card .socials span{
-    padding: 5px;
+    padding: 5px 8px;
     background-color: red;
     border-radius: 100%;
     margin-left: 15px;
-    width: 50px;
+    
 
 }
 .card .socials span i{
     color: var(--secondary-color);
+}
+.card .socials span.twitter{
+    background-color:#40b1f7 ;
+}
+.card .socials span.facebook{
+background-color:#3c5a9b ;
+}
+.card .socials span.gmail{
+background-color:#ff775d ;
+}
+.card .socials span.instagram{
+background-color:#1669fd ;
 }
