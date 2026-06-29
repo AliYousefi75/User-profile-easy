@@ -68,3 +68,22 @@ body{
     color: var(--text-light);
 }
 
+.card p.info{
+    margin-bottom: 2rem;
+}
+
+.card .socials {
+    margin-bottom: 2rem;
+}
+
+.card .socials span{
+    padding: 5px;
+    background-color: red;
+    border-radius: 100%;
+    margin-left: 15px;
+    width: 50px;
+
+}
+.card .socials span i{
+    color: var(--secondary-color);
+}
